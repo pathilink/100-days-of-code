@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: January 01, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: First day of 100 Days of Code - The Complete Python Pro Bootcamp by Dr. Angela Yu from The App Brewer.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I did the placement test but I preferred not to skip steps - reviewing the basics is always good.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+* [day-1-1-exercise](https://repl.it/@pathilink/day-1-1-exercise#README.md)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+* [day-1-2-exercise](https://repl.it/@pathilink/day-1-2-exercise#README.md)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+* [day-1-3-exercise](https://repl.it/@pathilink/day-1-3-exercise#main.py)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+* [day-1-4-exercise](https://repl.it/@pathilink/day-1-4-exercise#README.md)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+* [band-name-generator-start](https://repl.it/@pathilink/band-name-generator-start#main.py)

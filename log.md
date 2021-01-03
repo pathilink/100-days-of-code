@@ -6,5 +6,8 @@
 
 **Thoughts:** I did the placement test but I preferred not to skip steps - reviewing the basics is always good.
 
-<!-- **Links to work:** -->
+## Day 1: January 02, 2021
 
+**Today's Progress**: I studied some basic things in JavaScript. And I returned to Day 2 of the Python Bootcamp.
+
+<!-- **Links to work:** -->

@@ -10,4 +10,8 @@
 
 **Today's Progress**: I studied some basic things in JavaScript. And I returned to Day 2 of the Python Bootcamp.
 
+## Day 2: January 03, 2021
+
+**Today's Progress**: Learned about Template String from JavaScript - no more infinites "+"; Day 3 of Python Bootcamp focusing on control flow and logical operators.
+
 <!-- **Links to work:** -->

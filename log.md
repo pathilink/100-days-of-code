@@ -14,4 +14,8 @@
 
 **Today's Progress**: Learned about Template String from JavaScript - no more infinites "+"; Day 3 of Python Bootcamp focusing on control flow and logical operators.
 
+## Day 3: January 04, 2021
+
+**Today's Progress**: Day 4 of Python Bootcamp focusing on randomisation and lists. And a bit of JavaScript(arrow; desestruct; match; spread; ternario).
+
 <!-- **Links to work:** -->

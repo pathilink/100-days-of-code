@@ -18,4 +18,10 @@
 
 **Today's Progress**: Day 4 of Python Bootcamp focusing on randomisation and lists. And a bit of JavaScript(arrow; desestruct; match; spread; ternario).
 
+## Day 4: January 05, 2021
+
+**Today's Progress**: Day 5 of Python Bootcamp (loops). Review of git and Scrum.
+
+**Thoughts:** Reviewing an exercise I found out that I still need to improve the logic to do the same with fewer lines of code.
+
 <!-- **Links to work:** -->

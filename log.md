@@ -24,4 +24,8 @@
 
 **Thoughts:** Reviewing an exercise I found out that I still need to improve the logic to do the same with fewer lines of code.
 
+## Day 5: January 06, 2021
+
+**Today's Progress**: Day 6 of Python Bootcamp (functions, loops and [Karel](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)).
+
 <!-- **Links to work:** -->

@@ -36,4 +36,10 @@
 
 **Today's Progress**: Day 8 of Python Bootcamp (functions; Caeser Cipher).
 
-<!-- **Links to work:** -->
+## Day 8: January 09, 2021
+
+**Today's Progress**: Fix bug in Caeser Cipher.
+
+**Thoughts:** Hours trying to fix the bug...
+
+**Link to work:** initial [code](https://repl.it/@pathilink/caesar-cipher-1-start#main.py).

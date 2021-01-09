@@ -32,4 +32,8 @@
 
 **Today's Progress**: Day 7 of Python Bootcamp (Hangman).
 
+## Day 7: January 08, 2021
+
+**Today's Progress**: Day 8 of Python Bootcamp (functions; Caeser Cipher).
+
 <!-- **Links to work:** -->

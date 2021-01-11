@@ -43,3 +43,9 @@
 **Thoughts:** Hours trying to fix the bug...
 
 **Link to work:** initial [code](https://repl.it/@pathilink/caesar-cipher-1-start#main.py).
+
+## Day 9: January 10, 2021
+
+**Today's Progress**: Ending Caeser Cipher.
+
+**Link to work:** final [code](https://repl.it/@pathilink/caesar-cipher-4-start#main.py)

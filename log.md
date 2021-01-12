@@ -49,3 +49,9 @@
 **Today's Progress**: Ending Caeser Cipher.
 
 **Link to work:** final [code](https://repl.it/@pathilink/caesar-cipher-4-start#main.py)
+
+## Day 10: January 11, 2021
+
+**Today's Progress:** Performing test on Exploratory Data Analysis.
+
+**Thoughts:** Cleaning data takes so long...

@@ -55,3 +55,7 @@
 **Today's Progress:** Performing test on Exploratory Data Analysis.
 
 **Thoughts:** Cleaning data takes so long...
+
+## Day 11: January 12, 2021
+
+**Today's Progress:** Another day doing EDA.

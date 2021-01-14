@@ -59,3 +59,7 @@
 ## Day 11: January 12, 2021
 
 **Today's Progress:** Another day doing EDA.
+
+## Day 12: January 13, 2021
+
+**Today's Progress:** I learned that it is possible to print several tables, side by side, using the basics of Python and HTML.

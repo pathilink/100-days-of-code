@@ -63,3 +63,7 @@
 ## Day 12: January 13, 2021
 
 **Today's Progress:** I learned that it is possible to print several tables, side by side, using the basics of Python and HTML.
+
+## Day 13: January 14, 2021
+
+**Today's Progress:** Focus on developing an app using streamlit from scratch.

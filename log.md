@@ -67,3 +67,7 @@
 ## Day 13: January 14, 2021
 
 **Today's Progress:** Focus on developing an app using streamlit from scratch.
+
+## Day 14: January 15, 2021
+
+**Today's Progress:** Back to bootcamp: dictionaries.

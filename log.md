@@ -71,3 +71,7 @@
 ## Day 14: January 15, 2021
 
 **Today's Progress:** Back to bootcamp: dictionaries.
+
+## Day 15: January 16, 2021
+
+**Today's Progress:** Continuing: dictionaries.

@@ -75,3 +75,7 @@
 ## Day 15: January 16, 2021
 
 **Today's Progress:** Continuing: dictionaries.
+
+## Day 16: January 17, 2021
+
+**Today's Progress:** Revisited loops.

@@ -79,3 +79,9 @@
 ## Day 16: January 17, 2021
 
 **Today's Progress:** Revisited loops.
+
+## Day 17: January 18, 2021
+
+**Today's Progress:** Focusing on finishing the course.
+
+**Thoughts:** At least 30 min today...

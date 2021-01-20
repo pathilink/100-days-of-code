@@ -85,3 +85,7 @@
 **Today's Progress:** Focusing on finishing the course.
 
 **Thoughts:** At least 30 min today...
+
+## Day 18: January 19, 2021
+
+**Today's Progress:** Dictionary Day.

@@ -89,3 +89,9 @@
 ## Day 18: January 19, 2021
 
 **Today's Progress:** Dictionary Day.
+
+## Day 19: January 20, 2021
+
+**Today's Progress:** ETL: Cloud --> BigQuery
+
+**Thoughts:**  :worried:

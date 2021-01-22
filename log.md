@@ -95,3 +95,9 @@
 **Today's Progress:** ETL: Cloud --> BigQuery
 
 **Thoughts:**  :worried:
+
+## Day 20: January 21, 2021
+
+**Today's Progress**: I finished auction program.
+
+**Link to work:** final [code](https://repl.it/@pathilink/blind-auction-start#main.py)

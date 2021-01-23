@@ -101,3 +101,7 @@
 **Today's Progress**: I finished auction program.
 
 **Link to work:** final [code](https://repl.it/@pathilink/blind-auction-start#main.py)
+
+## Day 21: January 22, 2021
+
+**Today's Progress**: EDA.

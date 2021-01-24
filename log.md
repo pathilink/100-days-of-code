@@ -105,3 +105,11 @@
 ## Day 21: January 22, 2021
 
 **Today's Progress**: EDA.
+
+## Day 22: January 23, 2021
+
+**Today's Progress**: EDA - day 2
+
+## Day 23: January 24, 2021
+
+**Today's Progress**: EDA - day 3

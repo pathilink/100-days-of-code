@@ -113,3 +113,9 @@
 ## Day 23: January 24, 2021
 
 **Today's Progress**: EDA - day 3
+
+## Day 24: January 25, 2021
+
+**Today's Progress**: EDA - day 4
+
+**Thoughts:**  Too much difficulty to implement a time series ...

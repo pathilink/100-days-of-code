@@ -119,3 +119,7 @@
 **Today's Progress**: EDA - day 4
 
 **Thoughts:**  Too much difficulty to implement a time series ...
+
+## Day 25: January 26, 2021
+
+**Today's Progress**: Back to BQ.

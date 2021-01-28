@@ -123,3 +123,7 @@
 ## Day 25: January 26, 2021
 
 **Today's Progress**: Back to BQ.
+
+## Day 26: January 27, 2021
+
+**Today's Progress**: DataStudio

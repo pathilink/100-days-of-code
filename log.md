@@ -131,3 +131,7 @@
 ## Day 27: January 28, 2021
 
 **Thoughts:** I won't be able to escape Javascript :-/
+
+## Day 28: January 29, 2021
+
+**Today's Progress**: DataStudio + BigQuery.

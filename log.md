@@ -98,35 +98,35 @@
 
 ## Day 20: January 21, 2021
 
-**Today's Progress**: I finished auction program.
+**Today's Progress:** I finished auction program.
 
 **Link to work:** final [code](https://repl.it/@pathilink/blind-auction-start#main.py)
 
 ## Day 21: January 22, 2021
 
-**Today's Progress**: EDA.
+**Today's Progress:** EDA.
 
 ## Day 22: January 23, 2021
 
-**Today's Progress**: EDA - day 2
+**Today's Progress:** EDA - day 2
 
 ## Day 23: January 24, 2021
 
-**Today's Progress**: EDA - day 3
+**Today's Progress:** EDA - day 3
 
 ## Day 24: January 25, 2021
 
-**Today's Progress**: EDA - day 4
+**Today's Progress:** EDA - day 4
 
 **Thoughts:**  Too much difficulty to implement a time series ...
 
 ## Day 25: January 26, 2021
 
-**Today's Progress**: Back to BQ.
+**Today's Progress:** Back to BQ.
 
 ## Day 26: January 27, 2021
 
-**Today's Progress**: DataStudio
+**Today's Progress:** DataStudio
 
 ## Day 27: January 28, 2021
 
@@ -134,4 +134,8 @@
 
 ## Day 28: January 29, 2021
 
-**Today's Progress**: DataStudio + BigQuery.
+**Today's Progress:** DataStudio + BigQuery.
+
+## Day 29: January 30, 2021
+
+**Today's Progress:** Locking the notebook trying to use Pandas Profiling.

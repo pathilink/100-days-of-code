@@ -139,3 +139,7 @@
 ## Day 29: January 30, 2021
 
 **Today's Progress:** Locking the notebook trying to use Pandas Profiling.
+
+## Day 30: January 31, 2021
+
+**Today's Progress:** Time series.

@@ -143,3 +143,7 @@
 ## Day 30: January 31, 2021
 
 **Today's Progress:** Time series.
+
+## Day 31: February 01, 2021
+
+**Today's Progress:** Imputation of missing data.

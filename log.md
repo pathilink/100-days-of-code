@@ -147,3 +147,7 @@
 ## Day 31: February 01, 2021
 
 **Today's Progress:** Imputation of missing data.
+
+## Day 32: February 02, 2021
+
+**Thoughts:** Difficult to deal with missings...

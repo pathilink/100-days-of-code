@@ -151,3 +151,7 @@
 ## Day 32: February 02, 2021
 
 **Thoughts:** Difficult to deal with missings...
+
+## Day 33: February 03, 2021
+
+**Thoughts:** Feature selection methods.

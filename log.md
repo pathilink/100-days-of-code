@@ -155,3 +155,7 @@
 ## Day 33: February 03, 2021
 
 **Thoughts:** Feature selection methods.
+
+## Day 34: February 04, 2021
+
+**Today's Progress:** Imputation of missing data - 2.

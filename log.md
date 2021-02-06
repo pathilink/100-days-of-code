@@ -159,3 +159,7 @@
 ## Day 34: February 04, 2021
 
 **Today's Progress:** Imputation of missing data - 2.
+
+## Day 35: February 05, 2021
+
+**Thoughts:** If I could I would come all night doing data analysis with Python.

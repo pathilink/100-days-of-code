@@ -163,3 +163,11 @@
 ## Day 35: February 05, 2021
 
 **Thoughts:** If I could I would come all night doing data analysis with Python.
+
+## Day 36: February 06, 2021
+
+**Today's Progress:** Choosing features to drop.
+
+## Day 37: February 07, 2021
+
+**Thoughts:** Focus.

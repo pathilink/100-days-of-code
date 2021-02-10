@@ -171,3 +171,11 @@
 ## Day 37: February 07, 2021
 
 **Thoughts:** Focus.
+
+## Day 38: February 08, 2021
+
+**Today's Progress:** Trying to understand a questionnaire from the beginning.
+
+## Day 39: February 09, 2021
+
+**Today's Progress:** Manipulating data.

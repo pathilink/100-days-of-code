@@ -179,3 +179,11 @@
 ## Day 39: February 09, 2021
 
 **Today's Progress:** Manipulating data.
+
+## Day 40: February 10, 2021
+
+**Today's Progress:** Manipulating data 2.
+
+## Day 41: February 11, 2021
+
+**Today's Progress:** Manipulating data 3.

@@ -187,3 +187,7 @@
 ## Day 41: February 11, 2021
 
 **Today's Progress:** Manipulating data 3.
+
+## Day 42: February 12, 2021
+
+**Today's Progress:** Social Network Analysis.

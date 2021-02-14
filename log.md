@@ -191,3 +191,7 @@
 ## Day 42: February 12, 2021
 
 **Today's Progress:** Social Network Analysis.
+
+## Day 43: February 13, 2021
+
+**Thoughts:** Nervously trying to decide what to do in a Kaggle competition.

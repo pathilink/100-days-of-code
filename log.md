@@ -195,3 +195,7 @@
 ## Day 43: February 13, 2021
 
 **Thoughts:** Nervously trying to decide what to do in a Kaggle competition.
+
+## Day 44: February 14, 2021
+
+**Today's Progress:** Experimenting with different ways of data imputation.

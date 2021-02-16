@@ -199,3 +199,7 @@
 ## Day 44: February 14, 2021
 
 **Today's Progress:** Experimenting with different ways of data imputation.
+
+## Day 45: February 15, 2021
+
+**Thoughts:** I need to study a lot more statistics to be able to apply the best strategy in Kaggle.

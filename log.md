@@ -203,3 +203,7 @@
 ## Day 45: February 15, 2021
 
 **Thoughts:** I need to study a lot more statistics to be able to apply the best strategy in Kaggle.
+
+## Day 46: February 16, 2021
+
+**Today's Progress:** I discovered a new file format with a data format serialization language: [TOML](https://www.w3schools.io/file/toml-introduction/).

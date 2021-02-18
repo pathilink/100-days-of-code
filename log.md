@@ -207,3 +207,7 @@
 ## Day 46: February 16, 2021
 
 **Today's Progress:** I discovered a new file format with a data format serialization language: [TOML](https://www.w3schools.io/file/toml-introduction/).
+
+## Day 47: February 17, 2021
+
+**Today's Progress:** Update cv in R.

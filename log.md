@@ -211,3 +211,7 @@
 ## Day 47: February 17, 2021
 
 **Today's Progress:** Update cv in R.
+
+## Day 48: February 18, 2021
+
+**Thoughts:** DATA STRUCTURE :worried:

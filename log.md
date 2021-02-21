@@ -215,3 +215,11 @@
 ## Day 48: February 18, 2021
 
 **Thoughts:** DATA STRUCTURE :worried:
+
+## Day 49: February 19, 2021
+
+**Today's Progress:** ML models.
+
+## Day 50: February 20, 2021
+
+**Today's Progress:** ML models.

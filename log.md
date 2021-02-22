@@ -223,3 +223,11 @@
 ## Day 50: February 20, 2021
 
 **Today's Progress:** ML models.
+
+## Day 51: February 21, 2021
+
+**Today's Progress:** Mentoring about strategies in Kaggle.
+
+## Day 52: February 22, 2021
+
+**Today's Progress:** My 1st submission to Kaggle

@@ -118,7 +118,7 @@
 
 **Today's Progress:** EDA - day 4
 
-**Thoughts:**  Too much difficulty to implement a time series ...
+**Thoughts:**  So much difficulty to implement a time series ...
 
 ## Day 25: January 26, 2021
 
@@ -214,7 +214,7 @@
 
 ## Day 48: February 18, 2021
 
-**Thoughts:** DATA STRUCTURE :worried:
+**Thoughts:** Data structure.
 
 ## Day 49: February 19, 2021
 
@@ -230,4 +230,8 @@
 
 ## Day 52: February 22, 2021
 
-**Today's Progress:** My 1st submission to Kaggle
+**Today's Progress:** My 1st submission to Kaggle.
+
+## Day 53: February 23, 2021
+
+**Today's Progress:** CatBoost.

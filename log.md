@@ -235,3 +235,7 @@
 ## Day 53: February 23, 2021
 
 **Today's Progress:** CatBoost.
+
+## Day 54: February 24, 2021
+
+**Today's Progress:** Rearrange notebook.

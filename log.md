@@ -239,3 +239,7 @@
 ## Day 54: February 24, 2021
 
 **Today's Progress:** Rearrange notebook.
+
+## Day 55: February 25, 2021
+
+**Today's Progress:** LightGBM.

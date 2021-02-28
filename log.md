@@ -243,3 +243,11 @@
 ## Day 55: February 25, 2021
 
 **Today's Progress:** LightGBM.
+
+## Day 56: February 26, 2021
+
+**Today's Progress:** Improving ml models
+
+## Day 57: February 27, 2021
+
+**Today's Progress:** Improving ml models.

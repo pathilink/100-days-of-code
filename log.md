@@ -251,3 +251,11 @@
 ## Day 57: February 27, 2021
 
 **Today's Progress:** Improving ml models.
+
+## Day 58: February 28, 2021
+
+**Today's Progress:** Improving features.
+
+## Day 59: March 01, 2021
+
+**Today's Progress:** Last submission to Kaggle.

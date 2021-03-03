@@ -259,3 +259,7 @@
 ## Day 59: March 01, 2021
 
 **Today's Progress:** Last submission to Kaggle.
+
+## Day 60: March 02, 2021
+
+**Today's Progress:** Viewing the AWS ecosystem.

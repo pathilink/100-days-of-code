@@ -263,3 +263,11 @@
 ## Day 60: March 02, 2021
 
 **Today's Progress:** Viewing the AWS ecosystem.
+
+## Day 61: March 03, 2021
+
+**Today's Progress:** Metabase.
+
+## Day 62: March 04, 2021
+
+**Today's Progress:** Storytelling.

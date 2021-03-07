@@ -271,3 +271,11 @@
 ## Day 62: March 04, 2021
 
 **Today's Progress:** Storytelling.
+
+## Day 63: March 05, 2021
+
+**Today's Progress:** Metabase.
+
+## Day 64: March 06, 2021
+
+**Today's Progress:** Classification in ML.

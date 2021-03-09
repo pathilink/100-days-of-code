@@ -279,3 +279,11 @@
 ## Day 64: March 06, 2021
 
 **Today's Progress:** Classification in ML.
+
+## Day 65: March 07, 2021
+
+**Today's Progress:** PostgreSQL.
+
+## Day 66: March 08, 2021
+
+**Today's Progress:** API research.

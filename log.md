@@ -287,3 +287,11 @@
 ## Day 66: March 08, 2021
 
 **Today's Progress:** API research.
+
+## Day 67: March 09, 2021
+
+**Today's Progress:** Data lake.
+
+## Day 68: March 10, 2021
+
+**Today's Progress:** AWS.

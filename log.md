@@ -295,3 +295,19 @@
 ## Day 68: March 10, 2021
 
 **Today's Progress:** AWS.
+
+## Day 69: March 11, 2021
+
+**Today's Progress:** AWS.
+
+## Day 70: March 12, 2021
+
+**Today's Progress:** GitHub - R.
+
+## Day 71: March 13, 2021
+
+**Today's Progress:** Postgresql: left join != natural join.
+
+## Day 72: March 14, 2021
+
+**Today's Progress:** Matplotlib & Seaborn.

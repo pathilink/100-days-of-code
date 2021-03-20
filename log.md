@@ -311,3 +311,25 @@
 ## Day 72: March 14, 2021
 
 **Today's Progress:** Matplotlib & Seaborn.
+
+## Day 73: March 15, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 74: March 16, 2021
+
+**Today's Progress:** Technical test.
+
+**Link to work:** https://github.com/pathilink/B2W_data
+
+## Day 75: March 17, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 76: March 18, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 77: March 19, 2021
+
+**Thoughts:** I don't understand the Github problem in my RStudio.

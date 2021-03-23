@@ -333,3 +333,15 @@
 ## Day 77: March 19, 2021
 
 **Thoughts:** I don't understand the Github problem in my RStudio.
+
+## Day 78: March 20, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 79: March 21, 2021
+
+**Thoughts:** It is very difficult to understand the error responses when performing queries in Google Sheets.
+
+## Day 80: March 22, 2021
+
+**Today's Progress:** I have discovered the functions qcut() and cut() in Python.

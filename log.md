@@ -345,3 +345,15 @@
 ## Day 80: March 22, 2021
 
 **Today's Progress:** I have discovered the functions qcut() and cut() in Python.
+
+## Day 81: March 23, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 82: March 24, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 83: March 25, 2021
+
+**Today's Progress:** Technical test.

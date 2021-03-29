@@ -357,3 +357,15 @@
 ## Day 83: March 25, 2021
 
 **Today's Progress:** Technical test.
+
+## Day 84: March 26, 2021
+
+**Today's Progress:** Technical test.
+
+## Day 85: March 27, 2021
+
+**Today's Progress:** PostgreSQL + Metabase.
+
+## Day 86: March 28, 2021
+
+**Today's Progress:** PostgreSQL + Metabase.

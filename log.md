@@ -369,3 +369,15 @@
 ## Day 86: March 28, 2021
 
 **Today's Progress:** PostgreSQL + Metabase.
+
+## Day 87: March 29, 2021
+
+**Today's Progress:** Azurre videos.
+
+## Day 88: March 30, 2021
+
+**Today's Progress:** PostgreSQL.
+
+## Day 89: March 31, 2021
+
+**Thoughts:** I read this sentence in a newsletter I received and it exemplifies very well my relationship with programming: "There are known knowns. There are things we know we know. And we also know there are known unknowns. That is to say we know there are some things we do not know. But there are also unknown unknowns, the ones we don't know we don't know." - [Donald Rumsfeld](https://www.c-span.org/video/?168646-1/defense-department-briefing)

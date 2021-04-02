@@ -320,7 +320,7 @@
 
 **Today's Progress:** Technical test.
 
-**Link to work:** https://github.com/pathilink/B2W_data
+**Link to work:** <https://github.com/pathilink/B2W_data>
 
 ## Day 75: March 17, 2021
 
@@ -381,3 +381,11 @@
 ## Day 89: March 31, 2021
 
 **Thoughts:** I read this sentence in a newsletter I received and it exemplifies very well my relationship with programming: "There are known knowns. There are things we know we know. And we also know there are known unknowns. That is to say we know there are some things we do not know. But there are also unknown unknowns, the ones we don't know we don't know." - [Donald Rumsfeld](https://www.c-span.org/video/?168646-1/defense-department-briefing)
+
+## Day 90: April 01, 2021
+
+**Today's Progress:** Metabase.
+
+## Day 91: April 02, 2021
+
+**Today's Progress:** Dataquest - SQL.

@@ -389,3 +389,11 @@
 ## Day 91: April 02, 2021
 
 **Today's Progress:** Dataquest - SQL.
+
+## Day 92: April 03, 2021
+
+**Today's Progress:** Dataquest - SQL.
+
+## Day 93: April 04, 2021
+
+**Today's Progress:** Dataquest - SQL.

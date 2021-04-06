@@ -397,3 +397,9 @@
 ## Day 93: April 04, 2021
 
 **Today's Progress:** Dataquest - SQL.
+
+## Day 94: April 05, 2021
+
+**Today's Progress:** Metabase.
+
+**Link to work:** <https://github.com/pathilink/dsav_bi>

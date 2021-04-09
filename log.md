@@ -403,3 +403,15 @@
 **Today's Progress:** Metabase.
 
 **Link to work:** <https://github.com/pathilink/dsav_bi>
+
+## Day 95: April 06, 2021
+
+**Today's Progress:** Reviewing projects.
+
+## Day 96: April 07, 2021
+
+**Today's Progress:** Reviewing projects.
+
+## Day 97: April 08, 2021
+
+**Today's Progress:** Reviewing projects.

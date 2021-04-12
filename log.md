@@ -415,3 +415,15 @@
 ## Day 97: April 08, 2021
 
 **Today's Progress:** Reviewing projects.
+
+## Day 98: April 09, 2021
+
+**Today's Progress:** Calculating Feature Importance.
+
+## Day 99: April 10, 2021
+
+**Today's Progress:** Calculating Feature Importance.
+
+## Day 100: April 11, 2021
+
+**Thoughts:** LAST DAY! What matters is consistency 👩‍💻
